@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<import>
+	<video>
+		<title>Movie_1</title>
+		<id>123</id>
+		<meta_data>
+			<duration>1:59:12</duration>
+		</meta_data>
+		<subtitles>
+			<subtitle>ftp://user:pass@example.com/123/subtitles_fi.sub</subtitle>
+			<subtitle>ftp://user:pass@example.com/123/subtitles_en.sub</subtitle>
+			<subtitle>ftp://user:pass@example.com/123/subtitles_es.sub</subtitle>
+			<subtitle>ftp://user:pass@example.com/123/subtitles_pl.sub</subtitle>
+		</subtitles>
+	</video>
+</import> 
